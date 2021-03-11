@@ -1,4 +1,4 @@
-# BeeHive
+# BeeHave
 
 ## View Miro <a href="https://miro.com/app/board/o9J_lSn7fj4=/">Here</a> 
 
