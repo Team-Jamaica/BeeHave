@@ -7,6 +7,8 @@ BeeHave is an open-world adventure game where the user plays as a Bee, pollinate
 - Jiajun Kang
 - James Lau
 
+## Game Screenshots
+
 ## Current Game State
 - Character movement finished
 - Character model completed
