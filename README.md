@@ -31,6 +31,10 @@ Models:
 - Enemies to sting
 - Point tracker
 
+# 03/30/2021 
+The game is in the brainstorm phase! We met up and decided we want a simple sandbox game where the sole objective is to mess around and ruin someone's day. This little determined bee will stop at nothing to ruin everything around him.
+<img class="ui huge middle image" src="images/brainstorm.png">
+
 ## View Miro <a href="https://miro.com/app/board/o9J_lSn7fj4=/">Here</a> 
 
 ## View Trello Board <a href="https://trello.com/b/Qbd5DfBi/bee-simulator">Here</a>
