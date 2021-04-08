@@ -8,6 +8,9 @@ BeeHave is an open-world adventure game where the user plays as a Bee, pollinate
 - James Lau
 
 ## Game Screenshots
+<img class="ui huge middle image" src="../images/game-v1-1.png">
+<img class="ui huge middle image" src="../images/game-v1-1.png">
+<img class="ui huge middle image" src="../images/game-v1-1.png">
 
 ## Current Game State
 - Character movement finished
