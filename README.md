@@ -9,13 +9,13 @@ BeeHave is an open-world adventure game where the user plays as a Bee, pollinate
 
 ## Game Screenshots
 In-Game:
-<img class="ui huge middle image" src="../images/game-v1-1.png">
-<img class="ui huge middle image" src="../images/game-v1-2.png">
-<img class="ui huge middle image" src="../images/game-v1-3.png">
+<img class="ui huge middle image" src="/images/game-v1-1.png">
+<img class="ui huge middle image" src="/images/game-v1-2.png">
+<img class="ui huge middle image" src="/images/game-v1-3.png">
 
 Models:
-<img class="ui huge middle image" src="../images/bee-model-1.png">
-<img class="ui huge middle image" src="../images/bee-model-2.png">
+<img class="ui huge middle image" src="/images/bee-model-1.png">
+<img class="ui huge middle image" src="/images/bee-model-2.png">
 
 ## Current Game State
 - Character movement finished
