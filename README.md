@@ -3,9 +3,9 @@
 BeeHave is an open-world adventure game where the user plays as a Bee, pollinates flowers to collect different power-ups, or as we like to call them "flower-ups", to annoy humans.
 
 ## Team Members
-- Micah Kim
-- Jiajun Kang
-- James Lau
+- <a href="https://github.com/kimmicah">Micah Kim</a>
+- <a href="https://github.com/JiajunK">Jiajun Kang</a>
+- <a href="https://github.com/jklaulau">James Lau</a>
 
 ## Game Screenshots
 In-Game:
@@ -30,10 +30,6 @@ Models:
 - Pollinate and sting animations
 - Enemies to sting
 - Point tracker
-
-# 03/30/2021 
-The game is in the brainstorm phase! We met up and decided we want a simple sandbox game where the sole objective is to mess around and ruin someone's day. This little determined bee will stop at nothing to ruin everything around him.
-<img class="ui huge middle image" src="images/brainstorm.png">
 
 ## View Miro <a href="https://miro.com/app/board/o9J_lSn7fj4=/">Here</a> 
 
