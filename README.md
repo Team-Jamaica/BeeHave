@@ -15,15 +15,16 @@ In-Game:
 <p>The bee (you) was created from scratch in Blender. The game have three unique animations for the Bee, flying, pollinating, and stinging. The terrain and the human are assets downloaded from the assets store, but the animation for the human is entirely unique. The human asset was downloaded, then imported into blender to bring to life. The animations featured for the human asset includes idle, slapping, stung, walking, swatting, fainitng, and getting scared. </p>
 <img class="ui huge middle image" src="images/bee-model-1.png">
 <img class="ui huge middle image" src="images/bee-model-2.png">
-![fly](https://github.com/JiajunK/BeeHave/blob/main/images/fly.gif)
-![pollinate](https://github.com/JiajunK/BeeHave/blob/main/images/pollinate.gif)
-![sting](https://github.com/JiajunK/BeeHave/blob/main/images/sting.gif)
-![idle](https://github.com/JiajunK/BeeHave/blob/main/images/idle.gif)
-![walk](https://github.com/JiajunK/BeeHave/blob/main/images/walk.gif)
-![slap](https://github.com/JiajunK/BeeHave/blob/main/images/slap.gif)
-![swat](https://github.com/JiajunK/BeeHave/blob/main/images/swat.gif)
-![faint](https://github.com/JiajunK/BeeHave/blob/main/images/faint.gif)
-![scared](https://github.com/JiajunK/BeeHave/blob/main/images/scared.gif)
+
+![fly](https://github.com/Team-Jamaica/BeeHave/tree/main/images/fly.gif)
+![pollinate](https://github.com/Team-Jamaica/BeeHave/tree/main/images/pollinate.gif)
+![sting](https://github.com/Team-Jamaica/BeeHave/tree/main/images/sting.gif)
+![idle](https://github.com/Team-Jamaica/BeeHave/tree/main/images/idle.gif)
+![walk](https://github.com/Team-Jamaica/BeeHave/tree/main/images/walk.gif)
+![slap](https://github.com/Team-Jamaica/BeeHave/tree/main/images/slap.gif)
+![swat](https://github.com/Team-Jamaica/BeeHave/tree/main/images/swat.gif)
+![faint](https://github.com/Team-Jamaica/BeeHave/tree/main/images/faint.gif)
+![scared](https://github.com/Team-Jamaica/BeeHave/tree/main/images/scared.gif)
 
 
 ## Current Game State
