@@ -1,8 +1,3 @@
-## BeeHave Trailer
-[![BeeHave Trailer](https://i.ytimg.com/vi/KSSRVLUagFs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6HicbgibFIKfwtTGL7Srv7QKYpA)](https://youtu.be/KSSRVLUagFs "BeeHave Trailer")
-
-## BeeHave Demo
-
 <img class="ui huge middle image" src="images/main_menu.png">
 Have you ever dreamt of being as annoying as possible and ruining people's days? BeeHave is an open-world adventure game where the user plays as a Bee, pollinates flowers to collect different power-ups, or as we like to call them "flower-ups", to annoy humans.
 
@@ -10,6 +5,10 @@ Have you ever dreamt of being as annoying as possible and ruining people's days?
 - Micah Kim
 - Jiajun Kang
 - James Lau
+
+## BeeHave Demo + Trailer
+If you would like to view a demo of our game, click <a href="https://youtu.be/CchChjdPBxs">here</a>
+If you would like to view a trailer of our game, click <a href="https://youtu.be/KSSRVLUagFs">here</a> 
 
 ## Game Engine
 <p>The game is created entirely in Unity and Blender, and the user will use the WASD keys to control the bee. </p>
