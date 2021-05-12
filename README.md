@@ -23,6 +23,7 @@ In-Game Shots:
 Blender Shots:
 </br>
 <img class="ui huge middle image" src="images/bee-model-1.png">
+</br>
 <img class="ui huge middle image" src="images/bee-model-2.png">
 
 ![fly](https://github.com/Team-Jamaica/BeeHave/tree/main/images/fly.gif)
