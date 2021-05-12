@@ -1,3 +1,8 @@
+## BeeHave Trailer
+[![BeeHave Trailer]](https://youtu.be/KSSRVLUagFs "BeeHave Trailer")
+
+## BeeHave Demo
+
 <img class="ui huge middle image" src="images/main_menu.png">
 Have you ever dreamt of being as annoying as possible and ruining people's days? BeeHave is an open-world adventure game where the user plays as a Bee, pollinates flowers to collect different power-ups, or as we like to call them "flower-ups", to annoy humans.
 
