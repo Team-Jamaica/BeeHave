@@ -4,6 +4,7 @@ Have you ever dreamt of being as annoying as possible and ruining people's days?
 ## Team Members
 - Micah Kim
 <img class="ui small middle image" src="images/micah.png">
+<br/>
 - Jiajun Kang
 - James Lau
 <img class="ui small middle image" src="images/james.jpg">
