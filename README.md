@@ -9,7 +9,7 @@ Have you ever dreamt of being as annoying as possible and ruining people's days?
 
 </br>
 - James Lau
-<img class="ui small middle image" src="images/james.png">
+<img class="ui small middle image" src="images/james.jpg">
 
 ## BeeHave Demo + Trailer
 If you would like to view a demo of our game, click <a href="https://youtu.be/CchChjdPBxs">here</a>.
