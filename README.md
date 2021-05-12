@@ -7,9 +7,9 @@ Have you ever dreamt of being as annoying as possible and ruining people's days?
 - James Lau
 
 ## BeeHave Demo + Trailer
-If you would like to view a demo of our game, click <a href="https://youtu.be/CchChjdPBxs">here.</a>
+If you would like to view a demo of our game, click <a href="https://youtu.be/CchChjdPBxs">here</a>.
 </br>
-If you would like to view a trailer of our game, click <a href="https://youtu.be/KSSRVLUagFs">here</a> 
+If you would like to view a trailer of our game, click <a href="https://youtu.be/KSSRVLUagFs">here</a>.
 
 ## Game Engine
 <p>The game is created entirely in Unity and Blender, and the user will use the WASD keys to control the bee. </p>
