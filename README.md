@@ -36,7 +36,7 @@ Blender Shots:
 
 Blender Animations:
 <br/>
-![fly](https://github.com/Team-Jamaica/BeeHave/blob/main/images/fly.gif)
+![fly](https://media.giphy.com/media/lEfH3ZpRXNfpPgTMBy/giphy.gif)
 ![pollinate](https://github.com/Team-Jamaica/BeeHave/blob/main/images/pollinate.gif)
 ![sting](https://github.com/Team-Jamaica/BeeHave/blob/main/images/sting.gif)
 ![idle](https://github.com/Team-Jamaica/BeeHave/blob/main/images/idle.gif)
