@@ -1,5 +1,5 @@
 ## BeeHave Trailer
-[![BeeHave Trailer]](https://youtu.be/KSSRVLUagFs "BeeHave Trailer")
+[![BeeHave Trailer](https://i.ytimg.com/vi/KSSRVLUagFs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6HicbgibFIKfwtTGL7Srv7QKYpA)](https://youtu.be/KSSRVLUagFs "BeeHave Trailer")
 
 ## BeeHave Demo
 
