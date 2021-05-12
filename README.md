@@ -7,9 +7,11 @@ Have you ever dreamt of being as annoying as possible and ruining people's days?
 <img class="ui tiny middle image" src="images/micah.png" width="150">
 Micah created the player and flower interaction, implemented sounds throughout, and created the menu screen.
 <br/>
+<br/>
 - Jiajun Kang (ICS)
 <br/>
 Jiajun created and animated the bee and enemy models.
+<br/>
 <br/>
 - James Lau (ICS)
 <br/>
