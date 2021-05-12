@@ -41,9 +41,11 @@ Blender Animations:
 ![fly](https://media.giphy.com/media/lEfH3ZpRXNfpPgTMBy/giphy.gif)
 <br/>
 (Pollination)
+<br/>
 ![pollinate](https://media.giphy.com/media/48FXxrFKoOvnN0BNrH/giphy.gif)
 <br/>
 (Stinging)
+<br/>
 ![sting](https://media.giphy.com/media/Hf5zHnIpTe7uIeKPrH/giphy.gif)
 <br/>
 Enemy:
