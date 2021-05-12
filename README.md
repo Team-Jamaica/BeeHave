@@ -2,15 +2,18 @@
 Have you ever dreamt of being as annoying as possible and ruining people's days? BeeHave is an open-world adventure game where the user plays as a Bee, pollinates flowers to collect different power-ups, or as we like to call them "flower-ups", to annoy humans.
 
 ## Team Members
-- Micah Kim
+- Micah Kim (ICS)
 <br/>
 <img class="ui tiny middle image" src="images/micah.png" width="150">
+Micah created the player and flower interaction, implemented sounds throughout, and created the menu screen.
 <br/>
-- Jiajun Kang
+- Jiajun Kang (ICS)
 <br/>
-- James Lau
+Jiajun created and animated the bee and enemy models.
+- James Lau (ICS)
 <br/>
 <img class="ui tiny middle image" src="images/james.jpg" width="150">
+James created the player and enemy interaction and the character movement.
 
 ## BeeHave Demo + Trailer
 If you would like to view a demo of our game, click <a href="https://youtu.be/CchChjdPBxs">here</a>.
