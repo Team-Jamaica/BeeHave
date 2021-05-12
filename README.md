@@ -18,7 +18,7 @@ Jiajun created and animated the bee and enemy models.
 <br/>
 <img class="ui tiny middle image" src="images/james.jpg" width="150">
 <br/>
-James created the player and enemy interaction and the character movement.
+James created the player and enemy interaction and the player movement.
 
 ## BeeHave Demo + Trailer
 If you would like to view a demo of our game, click <a href="https://youtu.be/CchChjdPBxs">here</a>.
