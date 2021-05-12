@@ -34,6 +34,8 @@ Blender Shots:
 <br/>
 <img class="ui huge middle image" src="images/bee-model-2.png">
 
+Blender Animations:
+<br/>
 ![fly](https://github.com/Team-Jamaica/BeeHave/blob/main/images/fly.gif)
 ![pollinate](https://github.com/Team-Jamaica/BeeHave/tree/main/images/pollinate.gif)
 ![sting](https://github.com/Team-Jamaica/BeeHave/tree/main/images/sting.gif)
