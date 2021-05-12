@@ -34,7 +34,7 @@ Blender Shots:
 <br/>
 <img class="ui huge middle image" src="images/bee-model-2.png">
 
-![fly](https://github.com/Team-Jamaica/BeeHave/tree/main/images/fly.gif)
+![fly](https://github.com/Team-Jamaica/BeeHave/images/fly.gif)
 ![pollinate](https://github.com/Team-Jamaica/BeeHave/tree/main/images/pollinate.gif)
 ![sting](https://github.com/Team-Jamaica/BeeHave/tree/main/images/sting.gif)
 ![idle](https://github.com/Team-Jamaica/BeeHave/tree/main/images/idle.gif)
