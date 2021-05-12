@@ -37,14 +37,14 @@ Blender Shots:
 Blender Animations:
 <br/>
 ![fly](https://github.com/Team-Jamaica/BeeHave/blob/main/images/fly.gif)
-![pollinate](https://github.com/Team-Jamaica/BeeHave/tree/main/images/pollinate.gif)
-![sting](https://github.com/Team-Jamaica/BeeHave/tree/main/images/sting.gif)
-![idle](https://github.com/Team-Jamaica/BeeHave/tree/main/images/idle.gif)
-![walk](https://github.com/Team-Jamaica/BeeHave/tree/main/images/walk.gif)
-![slap](https://github.com/Team-Jamaica/BeeHave/tree/main/images/slap.gif)
-![swat](https://github.com/Team-Jamaica/BeeHave/tree/main/images/swat.gif)
-![faint](https://github.com/Team-Jamaica/BeeHave/tree/main/images/faint.gif)
-![scared](https://github.com/Team-Jamaica/BeeHave/tree/main/images/scared.gif)
+![pollinate](https://github.com/Team-Jamaica/BeeHave/blob/main/images/pollinate.gif)
+![sting](https://github.com/Team-Jamaica/BeeHave/blob/main/images/sting.gif)
+![idle](https://github.com/Team-Jamaica/BeeHave/blob/main/images/idle.gif)
+![walk](https://github.com/Team-Jamaica/BeeHave/blob/main/images/walk.gif)
+![slap](https://github.com/Team-Jamaica/BeeHave/blob/main/images/slap.gif)
+![swat](https://github.com/Team-Jamaica/BeeHave/blob/main/images/swat.gif)
+![faint](https://github.com/Team-Jamaica/BeeHave/blob/main/images/faint.gif)
+![scared](https://github.com/Team-Jamaica/BeeHave/blob/main/images/scared.gif)
 
 
 ## Current Game State
