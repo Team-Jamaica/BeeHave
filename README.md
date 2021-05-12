@@ -39,10 +39,13 @@ Blender Animations:
 Bee:
 <br/>
 ![fly](https://media.giphy.com/media/lEfH3ZpRXNfpPgTMBy/giphy.gif)
+<br/>
 ![pollinate](https://media.giphy.com/media/48FXxrFKoOvnN0BNrH/giphy.gif)
+<br/>
 ![sting](https://media.giphy.com/media/Hf5zHnIpTe7uIeKPrH/giphy.gif)
-
+<br/>
 Enemy:
+<br/>
 ![idle](https://media.giphy.com/media/yi7zF8nVxsZJkjFSUG/giphy.gif)
 ![walk](https://media.giphy.com/media/TyLmugAfjKZoQ1Ktqf/giphy.gif)
 ![slap](https://media.giphy.com/media/iHwW1NT99aQPNebukX/giphy.gif)
