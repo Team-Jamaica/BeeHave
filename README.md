@@ -17,6 +17,7 @@ Jiajun created and animated the bee and enemy models.
 - James Lau (ICS)
 <br/>
 <img class="ui tiny middle image" src="images/james.jpg" width="150">
+<br/>
 James created the player and enemy interaction and the character movement.
 
 ## BeeHave Demo + Trailer
