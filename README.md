@@ -10,6 +10,7 @@ Micah created the "flower-up" system, player and flower interaction, sound imple
 <br/>
 <br/>
 - Jiajun Kang (ICS)
+<br/>
 <img class ="ui tiny middle image" src="images/linkedinprofile1.png" width="150">
 <br/>
 Jiajun created and animated the bee and enemy models.
