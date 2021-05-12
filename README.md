@@ -85,13 +85,14 @@ Blender Animations:
 ## Future Updates
 - Implement animations
 - Point tracker
+- New powerups
 
 # 05/05/2021
 This is our final log, and we have completed the core mechanics of our game, including player and enemy interaction, player and flower interaction, 3rd-person characater movement, implemented sounds throughout the game, and have created a menu screen.
 <img class="ui huge middle image" src="images/main_menu.png">
 
 # 04/07/2021
-The blender model with the animation have been imported into Unity. Game wise, pollination is now possible with basic superspeed powerups. 
+The blender model with the animation have been imported into Unity. Game wise, pollination is now possible with basic powerups. 
 <br>
 <img class="ui huge middle image" src="images/game-v1-3.png">
 
