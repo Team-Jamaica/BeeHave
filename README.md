@@ -3,7 +3,9 @@ Have you ever dreamt of being as annoying as possible and ruining people's days?
 
 ## Team Members
 - Micah Kim (ICS)
+<br/>
 <img class="ui tiny middle image" src="images/micah.png" width="150">
+<br/>
 Micah created the "flower-up" system, player and flower interaction, sound implementation, and the menu screen.
 <br/>
 <br/>
