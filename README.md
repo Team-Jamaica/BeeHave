@@ -48,7 +48,6 @@ Blender Animations:
 <br/>
 ![sting](https://media.giphy.com/media/Hf5zHnIpTe7uIeKPrH/giphy.gif)
 <br/>
-Enemy:
 <br/>
 (Idle)
 <br/>
