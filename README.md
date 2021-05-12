@@ -3,11 +3,13 @@ Have you ever dreamt of being as annoying as possible and ruining people's days?
 
 ## Team Members
 - Micah Kim
+<br/>
 <img class="ui tiny middle image" src="images/micah.png" width="150">
 <br/>
 - Jiajun Kang
 <br/>
 - James Lau
+<br/>
 <img class="ui tiny middle image" src="images/james.jpg" width="150">
 
 ## BeeHave Demo + Trailer
