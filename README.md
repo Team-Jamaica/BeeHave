@@ -10,6 +10,7 @@ Micah created the player and flower interaction, implemented sounds throughout, 
 - Jiajun Kang (ICS)
 <br/>
 Jiajun created and animated the bee and enemy models.
+<br/>
 - James Lau (ICS)
 <br/>
 <img class="ui tiny middle image" src="images/james.jpg" width="150">
