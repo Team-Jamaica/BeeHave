@@ -21,6 +21,7 @@ In-Game Shots:
 <img class="ui huge middle image" src="images/game-v1-3.png">
 
 Blender Shots:
+</br>
 <img class="ui huge middle image" src="images/bee-model-1.png">
 <img class="ui huge middle image" src="images/bee-model-2.png">
 
