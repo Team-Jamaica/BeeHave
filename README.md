@@ -36,12 +36,14 @@ Blender Shots:
 
 Blender Animations:
 <br/>
-Bee:
+(Flying)
 <br/>
 ![fly](https://media.giphy.com/media/lEfH3ZpRXNfpPgTMBy/giphy.gif)
 <br/>
+(Pollination)
 ![pollinate](https://media.giphy.com/media/48FXxrFKoOvnN0BNrH/giphy.gif)
 <br/>
+(Stinging)
 ![sting](https://media.giphy.com/media/Hf5zHnIpTe7uIeKPrH/giphy.gif)
 <br/>
 Enemy:
