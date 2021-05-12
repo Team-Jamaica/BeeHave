@@ -14,7 +14,7 @@ Have you ever dreamt of being as annoying as possible and ruining people's days?
 
 ## BeeHave Demo + Trailer
 If you would like to view a demo of our game, click <a href="https://youtu.be/CchChjdPBxs">here</a>.
-</br>
+<br/>
 If you would like to view a trailer of our game, click <a href="https://youtu.be/KSSRVLUagFs">here</a>.
 
 ## Game Engine
