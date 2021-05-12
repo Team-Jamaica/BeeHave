@@ -14,7 +14,7 @@ If you would like to view a trailer of our game, click <a href="https://youtu.be
 ## Game Engine
 <p>The game is created entirely in Unity and Blender, and the user will use the WASD keys to control the bee. </p>
 </br>
-<p>The bee (you) was created from scratch in Blender. The game have three unique animations for the Bee, flying, pollinating, and stinging. The terrain and the human are assets downloaded from the assets store, but the animation for the human is entirely unique. The human asset was downloaded, then imported into blender to bring to life. The animations featured for the human asset includes idle, slapping, stung, walking, swatting, fainitng, and getting scared. </p>
+<p>The bee (you) was created from scratch in Blender. The game have three unique animations for the Bee: flying, pollinating, and stinging. The terrain and the human are assets downloaded from the assets store, but the animation for the human is entirely unique. The human asset was downloaded, then imported into blender to bring to life. The animations featured for the human asset includes idle, slapping, stung, walking, swatting, fainitng, and getting scared. </p>
 In-Game:
 <img class="ui huge middle image" src="images/game-v1-1.png">
 <img class="ui huge middle image" src="images/game-v1-2.png">
