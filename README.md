@@ -1,4 +1,4 @@
-<img class="ui huge middle image" src="images/main_menu.png">
+## Welcome to BeeHave
 Have you ever dreamt of being as annoying as possible and ruining people's days? BeeHave is an open-world adventure game where the user plays as a Bee, pollinates flowers to collect different power-ups, or as we like to call them "flower-ups", to annoy humans.
 
 ## Team Members
@@ -50,7 +50,7 @@ Blender Shots:
 - Point tracker
 
 # 05/05/2021
-This is our final log, and we have completed the core mechanics of our game, including player and enemy interaction, player and flower interaction, 3rd-person characater movement, implemmented sounds throughout the game, and have created a menu screen.
+This is our final log, and we have completed the core mechanics of our game, including player and enemy interaction, player and flower interaction, 3rd-person characater movement, implemented sounds throughout the game, and have created a menu screen.
 <img class="ui huge middle image" src="images/main_menu.png">
 
 # 04/07/2021
