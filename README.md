@@ -42,11 +42,11 @@ Blender Shots:
 - Character model completed
 - Landscape completed
 - Basic funtionality of flower-ups created
+- Pollinate and sting functionality finished
+- Enemies created
 
 ## Future Updates
-- Flower models
-- Pollinate and sting animations
-- Enemies to sting
+- Implement animations
 - Point tracker
 
 # 04/07/2021
