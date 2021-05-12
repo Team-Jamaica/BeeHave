@@ -8,7 +8,7 @@ Have you ever dreamt of being as annoying as possible and ruining people's days?
 - Jiajun Kang
 <br/>
 - James Lau
-<img class="ui tiny middle image" src="images/james.jpg">
+<img class="ui tiny middle image" src="images/james.jpg" width="150">
 
 ## BeeHave Demo + Trailer
 If you would like to view a demo of our game, click <a href="https://youtu.be/CchChjdPBxs">here</a>.
