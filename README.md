@@ -36,15 +36,19 @@ Blender Shots:
 
 Blender Animations:
 <br/>
+Bee:
+<br/>
 ![fly](https://media.giphy.com/media/lEfH3ZpRXNfpPgTMBy/giphy.gif)
-![pollinate](https://github.com/Team-Jamaica/BeeHave/blob/main/images/pollinate.gif)
-![sting](https://github.com/Team-Jamaica/BeeHave/blob/main/images/sting.gif)
-![idle](https://github.com/Team-Jamaica/BeeHave/blob/main/images/idle.gif)
-![walk](https://github.com/Team-Jamaica/BeeHave/blob/main/images/walk.gif)
-![slap](https://github.com/Team-Jamaica/BeeHave/blob/main/images/slap.gif)
-![swat](https://github.com/Team-Jamaica/BeeHave/blob/main/images/swat.gif)
-![faint](https://github.com/Team-Jamaica/BeeHave/blob/main/images/faint.gif)
-![scared](https://github.com/Team-Jamaica/BeeHave/blob/main/images/scared.gif)
+![pollinate](https://media.giphy.com/media/48FXxrFKoOvnN0BNrH/giphy.gif)
+![sting](https://media.giphy.com/media/Hf5zHnIpTe7uIeKPrH/giphy.gif)
+
+Enemy:
+![idle](https://media.giphy.com/media/yi7zF8nVxsZJkjFSUG/giphy.gif)
+![walk](https://media.giphy.com/media/TyLmugAfjKZoQ1Ktqf/giphy.gif)
+![slap](https://media.giphy.com/media/iHwW1NT99aQPNebukX/giphy.gif)
+![swat](https://media.giphy.com/media/40iIyDQDqIwbUFD6qf/giphy.gif)
+![faint](https://media.giphy.com/media/z7fZwTV27aHCyIFPNA/giphy.gif)
+![scared](https://media.giphy.com/media/J1w7yfCZU4AMxXT0nX/giphy.gif)
 
 
 ## Current Game State
