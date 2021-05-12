@@ -40,7 +40,7 @@ Blender Animations:
 <br/>
 ![fly](https://media.giphy.com/media/lEfH3ZpRXNfpPgTMBy/giphy.gif)
 <br/>
-(Pollination)
+(Pollinating)
 <br/>
 ![pollinate](https://media.giphy.com/media/48FXxrFKoOvnN0BNrH/giphy.gif)
 <br/>
@@ -50,11 +50,28 @@ Blender Animations:
 <br/>
 Enemy:
 <br/>
+(Idle)
+<br/>
 ![idle](https://media.giphy.com/media/yi7zF8nVxsZJkjFSUG/giphy.gif)
+<br/>
+(Walking)
+<br/>
 ![walk](https://media.giphy.com/media/TyLmugAfjKZoQ1Ktqf/giphy.gif)
+<br/>
+(Slapping)
+<br/>
 ![slap](https://media.giphy.com/media/iHwW1NT99aQPNebukX/giphy.gif)
+<br/>
+(Swatting)
+<br/>
 ![swat](https://media.giphy.com/media/40iIyDQDqIwbUFD6qf/giphy.gif)
+<br/>
+(Fainting)
+<br/>
 ![faint](https://media.giphy.com/media/z7fZwTV27aHCyIFPNA/giphy.gif)
+<br/>
+(Scared)
+<br/>
 ![scared](https://media.giphy.com/media/J1w7yfCZU4AMxXT0nX/giphy.gif)
 
 
