@@ -4,10 +4,7 @@ Have you ever dreamt of being as annoying as possible and ruining people's days?
 ## Team Members
 - Micah Kim
 <img class="ui small middle image" src="images/micah.png">
-</br>
 - Jiajun Kang
-
-</br>
 - James Lau
 <img class="ui small middle image" src="images/james.jpg">
 
@@ -18,7 +15,6 @@ If you would like to view a trailer of our game, click <a href="https://youtu.be
 
 ## Game Engine
 <p>The game is created entirely in Unity and Blender, and the user will use the WASD keys to control the bee. </p>
-</br>
 <p>The bee (you) was created from scratch in Blender. The game have three unique animations for the Bee: flying, pollinating, and stinging. The terrain and the human are assets downloaded from the assets store, but the animation for the human is entirely unique. The human asset was downloaded, then imported into blender to bring to life. The animations featured for the human asset includes idle, slapping, stung, walking, swatting, fainitng, and getting scared. </p>
 In-Game Shots:
 <img class="ui huge middle image" src="images/game-v1-1.png">
@@ -26,9 +22,7 @@ In-Game Shots:
 <img class="ui huge middle image" src="images/game-v1-3.png">
 
 Blender Shots:
-</br>
 <img class="ui huge middle image" src="images/bee-model-1.png">
-</br>
 <img class="ui huge middle image" src="images/bee-model-2.png">
 
 ![fly](https://github.com/Team-Jamaica/BeeHave/tree/main/images/fly.gif)
